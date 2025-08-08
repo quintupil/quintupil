@@ -1,6 +1,6 @@
 - 👋 Hola yo soy Carlos García 
-- 👀 Yo estoy interesado en aprender GitHub, lenguajes de programación, etc... Para subir mis proyectos de cursos
-- 🌱 Yo actualmente me encuentro estudiando Git y GitHub
+- 👀 Soy un desarrollador apasionado por tecnologias React, CSS, Node, Java, AWS, base de datos y aprendiendo IA. Me gusta crear soluciones que impacten positivamente a las personas.
+- 🌱 Yo actualmente me encuentro desarrollando proyectos para la banca financiera.  
 - 📫 Como contactarme garcia.quintupil@gmail.com
 
 <!---
